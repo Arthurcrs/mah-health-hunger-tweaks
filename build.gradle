@@ -13,8 +13,8 @@ apply plugin: 'maven-publish'
 apply plugin: 'java'
 
 version = '1.0.0'
-group = 'com.mahghuuuls.examplemod'
-archivesBaseName = 'examplemod'
+group = 'com.mahghuuuls.mahhealthhungertweaks'
+archivesBaseName = 'mahhealthhungertweaks'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
