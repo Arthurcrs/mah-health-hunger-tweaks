@@ -31,7 +31,8 @@ repositories {
 }
 
 dependencies {
-    // Add dependencies here
+    // The correct Project ID (224472) mapped for ForgeGradle 2.3
+    deobfCompile "curse.maven:applecore-224472:2969118"
 }
 
 processResources {
